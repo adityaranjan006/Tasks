@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1728034914 source:d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\main.cpp
+	<iostream>
+	"librarysystem.h"
+	"user.h"
+	"book.h"
+	<cstdlib>
+	<unistd.h>
+
+1728035159 source:d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\user.cpp
+	"user.h"
+
+1728034427 d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\user.h
+	<string>
+
+1728035207 source:d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\book.cpp
+	"book.h"
+
+1728034527 d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\book.h
+	<string>
+
+1728029256 source:d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\librarysystem.cpp
+	"librarysystem.h"
+	<iostream>
+
+1728034993 d:\owngrowth\dsleep\sde-assignment-2024\lms_up\library_go\librarysystem.h
+	<unordered_map>
+	<string>
+	<list>
+	"user.h"
+	"book.h"
+

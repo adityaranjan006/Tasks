@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1727785465 source:d:\owngrowth\dsleep\sde-assignment-2024\bank_up\main.cpp
+	<iostream>
+	<limits>
+	"useraccount.h"
+	"fixeddeposit.h"
+	"banksystem.h"
+
+1727785837 d:\owngrowth\dsleep\sde-assignment-2024\bank_up\useraccount.h
+	<string>
+
+1727783948 source:d:\owngrowth\dsleep\sde-assignment-2024\bank_up\useraccount.cpp
+	"useraccount.h"
+	<iostream>
+	<unistd.h>
+	<cstdlib>
+
+1727782529 source:d:\owngrowth\dsleep\sde-assignment-2024\bank_up\fixeddeposit.cpp
+	"fixeddeposit.h"
+	<iostream>
+	<unistd.h>
+	<cstdlib>
+
+1727784931 d:\owngrowth\dsleep\sde-assignment-2024\bank_up\fixeddeposit.h
+	<string>
+	<iostream>
+	"useraccount.h"
+
+1727784752 source:d:\owngrowth\dsleep\sde-assignment-2024\bank_up\banksystem.cpp
+	"banksystem.h"
+
+1727784958 d:\owngrowth\dsleep\sde-assignment-2024\bank_up\banksystem.h
+	<string>
+	<list>
+	<unordered_map>
+	"useraccount.h"
+	"fixeddeposit.h"
+
